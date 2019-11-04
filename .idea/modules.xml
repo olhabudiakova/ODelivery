@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/frontend.iml" filepath="$PROJECT_DIR$/frontend/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nc-2019-team-2.iml" filepath="$PROJECT_DIR$/nc-2019-team-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/nc-2019-team-2 (1).iml" filepath="$PROJECT_DIR$/backend/nc-2019-team-2 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/nc-2019-team-2 (1) (com.netcracker.edu).iml" filepath="$PROJECT_DIR$/backend/nc-2019-team-2 (1) (com.netcracker.edu).iml" />
+    </modules>
+  </component>
+</project>
